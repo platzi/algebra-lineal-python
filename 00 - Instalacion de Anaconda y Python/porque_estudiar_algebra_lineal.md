@@ -1,6 +1,6 @@
 # Presentacion del curso de Fundamentos de Algebra Lineal con Python
 
-Hola, mi nombre es Sebastian Sosa y sere tu Profesor durante este curso.
+Hola, mi nombre es Sebastian Sosa y sere tu Profesor durante este curso. Hablar mas de mi.
 
 ## Necesito aprender Algebra Lineal?
 El Algebra Lineal es una rama de las matematicas que se ocupa de los vectores y matrices, y claro de las operaciones entre estas estructuras de datos entre otros temas.
