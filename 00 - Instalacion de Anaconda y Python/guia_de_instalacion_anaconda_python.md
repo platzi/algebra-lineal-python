@@ -27,7 +27,8 @@ Para realizar la instalacion debes seguir los siguientes pasos:
 2. Selecciona tu version de Sistema Operativo: Windows - macOS - Linux
 3. Haz click en Descargar/Download "Python 3.7 version" (o click en la version adecuada para tu CPU 64-bit o 32-bit)
 
-![Captura Pantalla Descarga Anaconda](imagenes/anaconda.captura.pantalla.descarga.png?raw=true "Descarga Instalador Anaconda")
+![Captura Pantalla Descarga Anaconda](imagenes/01.anaconda.captura.pantalla.descarga.png?raw=true "Descarga Instalador Anaconda")
+Imagen -> 01.anaconda.captura.pantalla.descarga.png
 
 Despues de descargar el instalador grafico, debes abrirlo y seguir las instrucciones que se presentaran en pantalla. Estas son una serie de preguntas para realizar la instalacion, las opciones por defecto estan bien, no hay necesidad de cambiarlas.
 
@@ -37,18 +38,25 @@ Una vez que finalizada la instalacion debes abrir el programa Anaconda Navigator
 
 Haz click en Environments y despues click en +Create. Se abrira una ventana para crear un nuevo entorno. 
 
-*******Imagen
+Imagen -> 02.anaconda.captura.environments.select.png
+Imagen -> 03.anaconda.captura.create.select.png
 
 Rellena los siguientes campos:
 
 * Name: Platzi - FundamentosAL
 * Packages: tilde en Python y del menu desplegable selecciona 3.7
 
+Imagen -> 04.anaconda.captura.popup.creacion.entorno.png
+
 Haz click en Create. Ahora el computador se tomara un momento para configurar el nuevo entorno y actualizarlo. Cuando termine veras una pantalla similiar a esta 
 
-******* Imagen
+Imagen -> 05.anaconda.captura.entorno.creado.png
 
-Los paquetes que ves son los que estan instalados por defecto, necesitas instalar varios mas. Haz click en installed y cambialo a not installed. En el recuadro de search packages pon:
+Los paquetes que ves son los que estan instalados por defecto, necesitas instalar varios mas. Haz click en installed y cambialo a not installed.
+
+Imagen -> 06.anaconda.captura.packages.notinstalled.png
+
+ En el recuadro de search packages pon:
 
 * Jupyter Notebook
 * scipy (tambien instalara numpy)
