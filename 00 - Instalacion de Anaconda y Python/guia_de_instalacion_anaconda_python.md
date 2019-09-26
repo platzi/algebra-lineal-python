@@ -53,8 +53,10 @@ Los paquetes que ves son los que estan instalados por defecto, necesitas instala
 * Jupyter Notebook
 * scipy (tambien instalara numpy)
 * pillow
+* imageio (lectura / escritura de imagenes)
 * matplotlib (para graficar)
 * seaborn (visualizaciones estadisticas)
+* scikit-learn
 
 En cada uno de los casos haz click en el recuadro y marcalo para instalar. Una vez que los tengas seleccionados haz click en Apply. Anaconda procesara por ti todas las dependencias y abrira una nueva ventana para que aceptemos los paquetes a instalar, haz click en Apply.
 
