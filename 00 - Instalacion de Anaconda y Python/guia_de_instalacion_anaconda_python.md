@@ -60,11 +60,11 @@ Imagen -> 06.anaconda.captura.packages.notinstalled.png
 
 * Jupyter Notebook
 * scipy (tambien instalara numpy)
-* pillow
+* pillow (libreria para manejo de imagenes)
 * imageio (lectura / escritura de imagenes)
 * matplotlib (para graficar)
 * seaborn (visualizaciones estadisticas)
-* scikit-learn
+* scikit-learn (aprendizaje automatico - lo usaremos para un ejemplo de PCA) 
 
 En cada uno de los casos haz click en el recuadro y marcalo para instalar. Una vez que los tengas seleccionados haz click en Apply. Anaconda procesara por ti todas las dependencias y abrira una nueva ventana para que aceptemos los paquetes a instalar, haz click en Apply.
 
